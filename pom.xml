@@ -9,11 +9,11 @@
   <artifactId>native-mysql-eclipselink-jpa</artifactId>
 
   <properties>
-    <appengine.app.appId>your-app-id</appengine.app.appId>
+    <appengine.app.appId>djsteviejames@gmail.com</appengine.app.appId>
     <appengine.app.version>1</appengine.app.version>
     <appengine.target.version>1.9.20</appengine.target.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <cloudsql.url>jdbc:google:mysql://your-instance-name/demo?user=root</cloudsql.url>
+    <cloudsql.url>https://github.com/princeofdarkness76/appengine-cloudsql-native-mysql-eclipselink-jpa-demo-java=root</cloudsql.url>
     <cloudsql.url.dev>jdbc:mysql://localhost/demo?user=root</cloudsql.url.dev>
   </properties>
 
